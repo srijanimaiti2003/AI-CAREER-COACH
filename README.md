@@ -14,6 +14,7 @@ A comprehensive AI-powered career coaching platform that helps professionals enh
 - [Running the Application](#-running-the-application)
 - [Core Functionality](#-core-functionality)
 - [API Routes](#-api-routes)
+- [HR Interview Preparation](#-hr-interview-preparation)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -277,6 +278,22 @@ The application uses the following main models:
   - `actions/resume.js` - Resume CRUD operations
   - `actions/interview.js` - Assessment handling
   - `actions/cover-letter.js` - Cover letter generation
+
+## 🎯 HR Interview Preparation
+
+Preparing for an HR interview about this project? Check out our comprehensive [HR Interview Preparation Guide](./HR_INTERVIEW_PREP.md)!
+
+This guide includes:
+- 📝 Ready-to-use elevator pitches (30s and 60s versions)
+- 💡 In-depth feature explanations with talking points
+- 🛠 Technical stack justifications for every technology choice
+- 🏗 Architecture and design decisions with detailed rationale
+- 💪 6 major challenges with STAR-formatted responses
+- 🎯 10+ common HR questions with comprehensive answers
+- 💼 Behavioral questions and interview strategies
+- 📊 Tips, preparation strategies, and common pitfalls to avoid
+
+Perfect for discussing this project confidently in technical and HR interviews!
 
 ## 🤝 Contributing
 
